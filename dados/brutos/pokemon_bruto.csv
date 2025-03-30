@@ -1,0 +1,501 @@
+ID	Nome	Altura	Peso	Base XP	Tipos	Habilidades	HP	Ataque	Defesa	Velocidade	Sprite (2D)
+1	bulbasaur	7	69	64	grass, poison	overgrow, chlorophyll	45	49	49	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+2	ivysaur	10	130	142	grass, poison	overgrow, chlorophyll	60	62	63	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+3	venusaur	20	1000	263	grass, poison	overgrow, chlorophyll	80	82	83	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+4	charmander	6	85	62	fire	blaze, solar-power	39	52	43	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+5	charmeleon	11	190	142	fire	blaze, solar-power	58	64	58	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+6	charizard	17	905	267	fire, flying	blaze, solar-power	78	84	78	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+7	squirtle	5	90	63	water	torrent, rain-dish	44	48	65	43	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+8	wartortle	10	225	142	water	torrent, rain-dish	59	63	80	58	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+9	blastoise	16	855	265	water	torrent, rain-dish	79	83	100	78	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+10	caterpie	3	29	39	bug	shield-dust, run-away	45	30	35	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png
+11	metapod	7	99	72	bug	shed-skin	50	20	55	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png
+12	butterfree	11	320	198	bug, flying	compound-eyes, tinted-lens	60	45	50	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+13	weedle	3	32	39	bug, poison	shield-dust, run-away	40	35	30	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png
+14	kakuna	6	100	72	bug, poison	shed-skin	45	25	50	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png
+15	beedrill	10	295	178	bug, poison	swarm, sniper	65	90	40	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+16	pidgey	3	18	50	normal, flying	keen-eye, tangled-feet, big-pecks	40	45	40	56	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+17	pidgeotto	11	300	122	normal, flying	keen-eye, tangled-feet, big-pecks	63	60	55	71	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png
+18	pidgeot	15	395	216	normal, flying	keen-eye, tangled-feet, big-pecks	83	80	75	101	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+19	rattata	3	35	51	normal	run-away, guts, hustle	30	56	35	72	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png
+20	raticate	7	185	145	normal	run-away, guts, hustle	55	81	60	97	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+21	spearow	3	20	52	normal, flying	keen-eye, sniper	40	60	30	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png
+22	fearow	12	380	155	normal, flying	keen-eye, sniper	65	90	65	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png
+23	ekans	20	69	58	poison	intimidate, shed-skin, unnerve	35	60	44	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png
+24	arbok	35	650	157	poison	intimidate, shed-skin, unnerve	60	95	69	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png
+25	pikachu	4	60	112	electric	static, lightning-rod	35	55	40	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
+26	raichu	8	300	243	electric	static, lightning-rod	60	90	55	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+27	sandshrew	6	120	60	ground	sand-veil, sand-rush	50	75	85	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png
+28	sandslash	10	295	158	ground	sand-veil, sand-rush	75	100	110	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png
+29	nidoran-f	4	70	55	poison	poison-point, rivalry, hustle	55	47	52	41	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png
+30	nidorina	8	200	128	poison	poison-point, rivalry, hustle	70	62	67	56	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png
+31	nidoqueen	13	600	253	poison, ground	poison-point, rivalry, sheer-force	90	92	87	76	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png
+32	nidoran-m	5	90	55	poison	poison-point, rivalry, hustle	46	57	40	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png
+33	nidorino	9	195	128	poison	poison-point, rivalry, hustle	61	72	57	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png
+34	nidoking	14	620	253	poison, ground	poison-point, rivalry, sheer-force	81	102	77	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png
+35	clefairy	6	75	113	fairy	cute-charm, magic-guard, friend-guard	70	45	48	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png
+36	clefable	13	400	242	fairy	cute-charm, magic-guard, unaware	95	70	73	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+37	vulpix	6	99	60	fire	flash-fire, drought	38	41	40	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png
+38	ninetales	11	199	177	fire	flash-fire, drought	73	76	75	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png
+39	jigglypuff	5	55	95	normal, fairy	cute-charm, competitive, friend-guard	115	45	20	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png
+40	wigglytuff	10	120	218	normal, fairy	cute-charm, competitive, frisk	140	70	45	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+41	zubat	8	75	49	poison, flying	inner-focus, infiltrator	40	45	35	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png
+42	golbat	16	550	159	poison, flying	inner-focus, infiltrator	75	80	70	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png
+43	oddish	5	54	64	grass, poison	chlorophyll, run-away	45	50	55	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png
+44	gloom	8	86	138	grass, poison	chlorophyll, stench	60	65	70	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+45	vileplume	12	186	245	grass, poison	chlorophyll, effect-spore	75	80	85	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png
+46	paras	3	54	57	bug, grass	effect-spore, dry-skin, damp	35	70	55	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png
+47	parasect	10	295	142	bug, grass	effect-spore, dry-skin, damp	60	95	80	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png
+48	venonat	10	300	61	bug, poison	compound-eyes, tinted-lens, run-away	60	55	50	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png
+49	venomoth	15	125	158	bug, poison	shield-dust, tinted-lens, wonder-skin	70	65	60	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png
+50	diglett	2	8	53	ground	sand-veil, arena-trap, sand-force	10	55	25	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png
+51	dugtrio	7	333	149	ground	sand-veil, arena-trap, sand-force	35	100	50	120	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png
+52	meowth	4	42	58	normal	pickup, technician, unnerve	40	45	35	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png
+53	persian	10	320	154	normal	limber, technician, unnerve	65	70	60	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png
+54	psyduck	8	196	64	water	damp, cloud-nine, swift-swim	50	52	48	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png
+55	golduck	17	766	175	water	damp, cloud-nine, swift-swim	80	82	78	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
+56	mankey	5	280	61	fighting	vital-spirit, anger-point, defiant	40	80	35	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png
+57	primeape	10	320	159	fighting	vital-spirit, anger-point, defiant	65	105	60	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png
+58	growlithe	7	190	70	fire	intimidate, flash-fire, justified	55	70	45	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png
+59	arcanine	19	1550	194	fire	intimidate, flash-fire, justified	90	110	80	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png
+60	poliwag	6	124	60	water	water-absorb, damp, swift-swim	40	50	40	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png
+61	poliwhirl	10	200	135	water	water-absorb, damp, swift-swim	65	65	65	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+62	poliwrath	13	540	255	water, fighting	water-absorb, damp, swift-swim	90	95	95	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png
+63	abra	9	195	62	psychic	synchronize, inner-focus, magic-guard	25	20	15	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png
+64	kadabra	13	565	140	psychic	synchronize, inner-focus, magic-guard	40	35	30	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png
+65	alakazam	15	480	250	psychic	synchronize, inner-focus, magic-guard	55	50	45	120	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+66	machop	8	195	61	fighting	guts, no-guard, steadfast	70	80	50	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png
+67	machoke	15	705	142	fighting	guts, no-guard, steadfast	80	100	70	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png
+68	machamp	16	1300	253	fighting	guts, no-guard, steadfast	90	130	80	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png
+69	bellsprout	7	40	60	grass, poison	chlorophyll, gluttony	50	75	35	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png
+70	weepinbell	10	64	137	grass, poison	chlorophyll, gluttony	65	90	50	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png
+71	victreebel	17	155	221	grass, poison	chlorophyll, gluttony	80	105	65	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+72	tentacool	9	455	67	water, poison	clear-body, liquid-ooze, rain-dish	40	40	35	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png
+73	tentacruel	16	550	180	water, poison	clear-body, liquid-ooze, rain-dish	80	70	65	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png
+74	geodude	4	200	60	rock, ground	rock-head, sturdy, sand-veil	40	80	100	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png
+75	graveler	10	1050	137	rock, ground	rock-head, sturdy, sand-veil	55	95	115	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png
+76	golem	14	3000	223	rock, ground	rock-head, sturdy, sand-veil	80	120	130	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+77	ponyta	10	300	82	fire	run-away, flash-fire, flame-body	50	85	55	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png
+78	rapidash	17	950	175	fire	run-away, flash-fire, flame-body	65	100	70	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png
+79	slowpoke	12	360	63	water, psychic	oblivious, own-tempo, regenerator	90	65	65	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png
+80	slowbro	16	785	172	water, psychic	oblivious, own-tempo, regenerator	95	75	110	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png
+81	magnemite	3	60	65	electric, steel	magnet-pull, sturdy, analytic	25	35	70	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png
+82	magneton	10	600	163	electric, steel	magnet-pull, sturdy, analytic	50	60	95	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png
+83	farfetchd	8	150	132	normal, flying	keen-eye, inner-focus, defiant	52	90	55	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png
+84	doduo	14	392	62	normal, flying	run-away, early-bird, tangled-feet	35	85	45	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png
+85	dodrio	18	852	165	normal, flying	run-away, early-bird, tangled-feet	60	110	70	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png
+86	seel	11	900	65	water	thick-fat, hydration, ice-body	65	45	55	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png
+87	dewgong	17	1200	166	water, ice	thick-fat, hydration, ice-body	90	70	80	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png
+88	grimer	9	300	65	poison	stench, sticky-hold, poison-touch	80	80	50	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png
+89	muk	12	300	175	poison	stench, sticky-hold, poison-touch	105	105	75	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png
+90	shellder	3	40	61	water	shell-armor, skill-link, overcoat	30	65	100	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png
+91	cloyster	15	1325	184	water, ice	shell-armor, skill-link, overcoat	50	95	180	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png
+92	gastly	13	1	62	ghost, poison	levitate	30	35	30	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png
+93	haunter	16	1	142	ghost, poison	levitate	45	50	45	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png
+94	gengar	15	405	250	ghost, poison	cursed-body	60	65	60	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+95	onix	88	2100	77	rock, ground	rock-head, sturdy, weak-armor	35	45	160	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png
+96	drowzee	10	324	66	psychic	insomnia, forewarn, inner-focus	60	48	45	42	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png
+97	hypno	16	756	169	psychic	insomnia, forewarn, inner-focus	85	73	70	67	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png
+98	krabby	4	65	65	water	hyper-cutter, shell-armor, sheer-force	30	105	90	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png
+99	kingler	13	600	166	water	hyper-cutter, shell-armor, sheer-force	55	130	115	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png
+100	voltorb	5	104	66	electric	soundproof, static, aftermath	40	30	50	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png
+101	electrode	12	666	172	electric	soundproof, static, aftermath	60	50	70	150	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png
+102	exeggcute	4	25	65	grass, psychic	chlorophyll, harvest	60	40	80	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png
+103	exeggutor	20	1200	186	grass, psychic	chlorophyll, harvest	95	95	85	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png
+104	cubone	4	65	64	ground	rock-head, lightning-rod, battle-armor	50	50	95	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png
+105	marowak	10	450	149	ground	rock-head, lightning-rod, battle-armor	60	80	110	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png
+106	hitmonlee	15	498	159	fighting	limber, reckless, unburden	50	120	53	87	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png
+107	hitmonchan	14	502	159	fighting	keen-eye, iron-fist, inner-focus	50	105	79	76	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png
+108	lickitung	12	655	77	normal	own-tempo, oblivious, cloud-nine	90	55	75	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png
+109	koffing	6	10	68	poison	levitate, neutralizing-gas, stench	40	65	95	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png
+110	weezing	12	95	172	poison	levitate, neutralizing-gas, stench	65	90	120	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png
+111	rhyhorn	10	1150	69	ground, rock	lightning-rod, rock-head, reckless	80	85	95	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png
+112	rhydon	19	1200	170	ground, rock	lightning-rod, rock-head, reckless	105	130	120	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png
+113	chansey	11	346	395	normal	natural-cure, serene-grace, healer	250	5	5	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png
+114	tangela	10	350	87	grass	chlorophyll, leaf-guard, regenerator	65	55	115	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png
+115	kangaskhan	22	800	172	normal	early-bird, scrappy, inner-focus	105	95	80	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png
+116	horsea	4	80	59	water	swift-swim, sniper, damp	30	40	70	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png
+117	seadra	12	250	154	water	poison-point, sniper, damp	55	65	95	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png
+118	goldeen	6	150	64	water	swift-swim, water-veil, lightning-rod	45	67	60	63	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png
+119	seaking	13	390	158	water	swift-swim, water-veil, lightning-rod	80	92	65	68	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png
+120	staryu	8	345	68	water	illuminate, natural-cure, analytic	30	45	55	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png
+121	starmie	11	800	182	water, psychic	illuminate, natural-cure, analytic	60	75	85	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png
+122	mr-mime	13	545	161	psychic, fairy	soundproof, filter, technician	40	45	65	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png
+123	scyther	15	560	100	bug, flying	swarm, technician, steadfast	70	110	80	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png
+124	jynx	14	406	159	ice, psychic	oblivious, forewarn, dry-skin	65	50	35	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png
+125	electabuzz	11	300	172	electric	static, vital-spirit	65	83	57	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png
+126	magmar	13	445	173	fire	flame-body, vital-spirit	65	95	57	93	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png
+127	pinsir	15	550	175	bug	hyper-cutter, mold-breaker, moxie	65	125	100	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png
+128	tauros	14	884	172	normal	intimidate, anger-point, sheer-force	75	100	95	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png
+129	magikarp	9	100	40	water	swift-swim, rattled	20	10	55	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png
+130	gyarados	65	2350	189	water, flying	intimidate, moxie	95	125	79	81	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png
+131	lapras	25	2200	187	water, ice	water-absorb, shell-armor, hydration	130	85	80	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png
+132	ditto	3	40	101	normal	limber, imposter	48	48	48	48	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png
+133	eevee	3	65	65	normal	run-away, adaptability, anticipation	55	55	50	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png
+134	vaporeon	10	290	184	water	water-absorb, hydration	130	65	60	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png
+135	jolteon	8	245	184	electric	volt-absorb, quick-feet	65	65	60	130	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png
+136	flareon	9	250	184	fire	flash-fire, guts	65	130	60	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png
+137	porygon	8	365	79	normal	trace, download, analytic	65	60	70	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png
+138	omanyte	4	75	71	rock, water	swift-swim, shell-armor, weak-armor	35	40	100	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png
+139	omastar	10	350	173	rock, water	swift-swim, shell-armor, weak-armor	70	60	125	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png
+140	kabuto	5	115	71	rock, water	swift-swim, battle-armor, weak-armor	30	80	90	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png
+141	kabutops	13	405	173	rock, water	swift-swim, battle-armor, weak-armor	60	115	105	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png
+142	aerodactyl	18	590	180	rock, flying	rock-head, pressure, unnerve	80	105	65	130	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png
+143	snorlax	21	4600	189	normal	immunity, thick-fat, gluttony	160	110	65	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+144	articuno	17	554	290	ice, flying	pressure, snow-cloak	90	85	100	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png
+145	zapdos	16	526	290	electric, flying	pressure, static	90	90	85	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png
+146	moltres	20	600	290	fire, flying	pressure, flame-body	90	100	90	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png
+147	dratini	18	33	60	dragon	shed-skin, marvel-scale	41	64	45	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png
+148	dragonair	40	165	147	dragon	shed-skin, marvel-scale	61	84	65	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png
+149	dragonite	22	2100	300	dragon, flying	inner-focus, multiscale	91	134	95	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+150	mewtwo	20	1220	340	psychic	pressure, unnerve	106	110	90	130	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png
+151	mew	4	40	300	psychic	synchronize	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png
+152	chikorita	9	64	64	grass	overgrow, leaf-guard	45	49	65	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png
+153	bayleef	12	158	142	grass	overgrow, leaf-guard	60	62	80	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png
+154	meganium	18	1005	236	grass	overgrow, leaf-guard	80	82	100	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png
+155	cyndaquil	5	79	62	fire	blaze, flash-fire	39	52	43	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png
+156	quilava	9	190	142	fire	blaze, flash-fire	58	64	58	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png
+157	typhlosion	17	795	240	fire	blaze, flash-fire	78	84	78	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png
+158	totodile	6	95	63	water	torrent, sheer-force	50	65	64	43	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png
+159	croconaw	11	250	142	water	torrent, sheer-force	65	80	80	58	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png
+160	feraligatr	23	888	239	water	torrent, sheer-force	85	105	100	78	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png
+161	sentret	8	60	43	normal	run-away, keen-eye, frisk	35	46	34	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png
+162	furret	18	325	145	normal	run-away, keen-eye, frisk	85	76	64	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png
+163	hoothoot	7	212	52	normal, flying	insomnia, keen-eye, tinted-lens	60	30	30	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png
+164	noctowl	16	408	158	normal, flying	insomnia, keen-eye, tinted-lens	100	50	50	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png
+165	ledyba	10	108	53	bug, flying	swarm, early-bird, rattled	40	20	30	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png
+166	ledian	14	356	137	bug, flying	swarm, early-bird, iron-fist	55	35	50	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png
+167	spinarak	5	85	50	bug, poison	swarm, insomnia, sniper	40	60	40	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png
+168	ariados	11	335	140	bug, poison	swarm, insomnia, sniper	70	90	70	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png
+169	crobat	18	750	268	poison, flying	inner-focus, infiltrator	85	90	80	130	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png
+170	chinchou	5	120	66	water, electric	volt-absorb, illuminate, water-absorb	75	38	38	67	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png
+171	lanturn	12	225	161	water, electric	volt-absorb, illuminate, water-absorb	125	58	58	67	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png
+172	pichu	3	20	41	electric	static, lightning-rod	20	40	15	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png
+173	cleffa	3	30	44	fairy	cute-charm, magic-guard, friend-guard	50	25	28	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png
+174	igglybuff	3	10	42	normal, fairy	cute-charm, competitive, friend-guard	90	30	15	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png
+175	togepi	3	15	49	fairy	hustle, serene-grace, super-luck	35	20	65	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png
+176	togetic	6	32	142	fairy, flying	hustle, serene-grace, super-luck	55	40	85	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png
+177	natu	2	20	64	psychic, flying	synchronize, early-bird, magic-bounce	40	50	45	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png
+178	xatu	15	150	165	psychic, flying	synchronize, early-bird, magic-bounce	65	75	70	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png
+179	mareep	6	78	56	electric	static, plus	55	40	40	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png
+180	flaaffy	8	133	128	electric	static, plus	70	55	55	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png
+181	ampharos	14	615	230	electric	static, plus	90	75	85	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png
+182	bellossom	4	58	245	grass	chlorophyll, healer	75	80	95	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png
+183	marill	4	85	88	water, fairy	thick-fat, huge-power, sap-sipper	70	20	50	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png
+184	azumarill	8	285	210	water, fairy	thick-fat, huge-power, sap-sipper	100	50	80	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png
+185	sudowoodo	12	380	144	rock	sturdy, rock-head, rattled	70	100	115	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png
+186	politoed	11	339	250	water	water-absorb, damp, drizzle	90	75	75	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png
+187	hoppip	4	5	50	grass, flying	chlorophyll, leaf-guard, infiltrator	35	35	40	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png
+188	skiploom	6	10	119	grass, flying	chlorophyll, leaf-guard, infiltrator	55	45	50	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png
+189	jumpluff	8	30	207	grass, flying	chlorophyll, leaf-guard, infiltrator	75	55	70	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png
+190	aipom	8	115	72	normal	run-away, pickup, skill-link	55	70	55	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png
+191	sunkern	3	18	36	grass	chlorophyll, solar-power, early-bird	30	30	30	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png
+192	sunflora	8	85	149	grass	chlorophyll, solar-power, early-bird	75	75	55	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png
+193	yanma	12	380	78	bug, flying	speed-boost, compound-eyes, frisk	65	65	45	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png
+194	wooper	4	85	42	water, ground	damp, water-absorb, unaware	55	45	45	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png
+195	quagsire	14	750	151	water, ground	damp, water-absorb, unaware	95	85	85	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png
+196	espeon	9	265	184	psychic	synchronize, magic-bounce	65	65	60	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png
+197	umbreon	10	270	184	dark	synchronize, inner-focus	95	65	110	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png
+198	murkrow	5	21	81	dark, flying	insomnia, super-luck, prankster	60	85	42	91	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png
+199	slowking	20	795	172	water, psychic	oblivious, own-tempo, regenerator	95	75	80	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png
+200	misdreavus	7	10	87	ghost	levitate	60	60	60	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png
+201	unown	5	50	118	psychic	levitate	48	72	48	48	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png
+202	wobbuffet	13	285	142	psychic	shadow-tag, telepathy	190	33	58	33	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png
+203	girafarig	15	415	159	normal, psychic	inner-focus, early-bird, sap-sipper	70	80	65	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png
+204	pineco	6	72	58	bug	sturdy, overcoat	50	65	90	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png
+205	forretress	12	1258	163	bug, steel	sturdy, overcoat	75	90	140	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png
+206	dunsparce	15	140	145	normal	serene-grace, run-away, rattled	100	70	70	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png
+207	gligar	11	648	86	ground, flying	hyper-cutter, sand-veil, immunity	65	75	105	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png
+208	steelix	92	4000	179	steel, ground	rock-head, sturdy, sheer-force	75	85	200	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png
+209	snubbull	6	78	60	fairy	intimidate, run-away, rattled	60	80	50	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png
+210	granbull	14	487	158	fairy	intimidate, quick-feet, rattled	90	120	75	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png
+211	qwilfish	5	39	88	water, poison	poison-point, swift-swim, intimidate	65	95	85	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png
+212	scizor	18	1180	175	bug, steel	swarm, technician, light-metal	70	130	100	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png
+213	shuckle	6	205	177	bug, rock	sturdy, gluttony, contrary	20	10	230	5	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png
+214	heracross	15	540	175	bug, fighting	swarm, guts, moxie	80	125	75	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png
+215	sneasel	9	280	86	dark, ice	inner-focus, keen-eye, pickpocket	55	95	55	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png
+216	teddiursa	6	88	66	normal	pickup, quick-feet, honey-gather	60	80	50	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png
+217	ursaring	18	1258	175	normal	guts, quick-feet, unnerve	90	130	75	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png
+218	slugma	7	350	50	fire	magma-armor, flame-body, weak-armor	40	40	40	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png
+219	magcargo	8	550	151	fire, rock	magma-armor, flame-body, weak-armor	60	50	120	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png
+220	swinub	4	65	50	ice, ground	oblivious, snow-cloak, thick-fat	50	50	40	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png
+221	piloswine	11	558	158	ice, ground	oblivious, snow-cloak, thick-fat	100	100	80	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png
+222	corsola	6	50	144	water, rock	hustle, natural-cure, regenerator	65	55	95	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png
+223	remoraid	6	120	60	water	hustle, sniper, moody	35	65	35	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png
+224	octillery	9	285	168	water	suction-cups, sniper, moody	75	105	75	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png
+225	delibird	9	160	116	ice, flying	vital-spirit, hustle, insomnia	45	55	45	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png
+226	mantine	21	2200	170	water, flying	swift-swim, water-absorb, water-veil	85	40	70	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png
+227	skarmory	17	505	163	steel, flying	keen-eye, sturdy, weak-armor	65	80	140	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png
+228	houndour	6	108	66	dark, fire	early-bird, flash-fire, unnerve	45	60	30	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png
+229	houndoom	14	350	175	dark, fire	early-bird, flash-fire, unnerve	75	90	50	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png
+230	kingdra	18	1520	270	water, dragon	swift-swim, sniper, damp	75	95	95	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png
+231	phanpy	5	335	66	ground	pickup, sand-veil	90	60	60	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png
+232	donphan	11	1200	175	ground	sturdy, sand-veil	90	120	120	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png
+233	porygon2	6	325	180	normal	trace, download, analytic	85	80	90	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png
+234	stantler	14	712	163	normal	intimidate, frisk, sap-sipper	73	95	62	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png
+235	smeargle	12	580	88	normal	own-tempo, technician, moody	55	20	35	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png
+236	tyrogue	7	210	42	fighting	guts, steadfast, vital-spirit	35	35	35	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png
+237	hitmontop	14	480	159	fighting	intimidate, technician, steadfast	50	95	95	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png
+238	smoochum	4	60	61	ice, psychic	oblivious, forewarn, hydration	45	30	15	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png
+239	elekid	6	235	72	electric	static, vital-spirit	45	63	37	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png
+240	magby	7	214	73	fire	flame-body, vital-spirit	45	75	37	83	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png
+241	miltank	12	755	172	normal	thick-fat, scrappy, sap-sipper	95	80	105	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png
+242	blissey	15	468	635	normal	natural-cure, serene-grace, healer	255	10	10	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png
+243	raikou	19	1780	290	electric	pressure, inner-focus	90	85	75	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png
+244	entei	21	1980	290	fire	pressure, inner-focus	115	115	85	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png
+245	suicune	20	1870	290	water	pressure, inner-focus	100	75	115	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png
+246	larvitar	6	720	60	rock, ground	guts, sand-veil	50	64	50	41	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png
+247	pupitar	12	1520	144	rock, ground	shed-skin	70	84	70	51	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png
+248	tyranitar	20	2020	300	rock, dark	sand-stream, unnerve	100	134	110	61	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png
+249	lugia	52	2160	340	psychic, flying	pressure, multiscale	106	90	130	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png
+250	ho-oh	38	1990	340	fire, flying	pressure, regenerator	106	130	90	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png
+251	celebi	6	50	300	psychic, grass	natural-cure	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png
+252	treecko	5	50	62	grass	overgrow, unburden	40	45	35	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png
+253	grovyle	9	216	142	grass	overgrow, unburden	50	65	45	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png
+254	sceptile	17	522	265	grass	overgrow, unburden	70	85	65	120	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png
+255	torchic	4	25	62	fire	blaze, speed-boost	45	60	40	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png
+256	combusken	9	195	142	fire, fighting	blaze, speed-boost	60	85	60	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png
+257	blaziken	19	520	265	fire, fighting	blaze, speed-boost	80	120	70	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png
+258	mudkip	4	76	62	water	torrent, damp	50	70	50	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png
+259	marshtomp	7	280	142	water, ground	torrent, damp	70	85	70	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png
+260	swampert	15	819	268	water, ground	torrent, damp	100	110	90	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png
+261	poochyena	5	136	56	dark	run-away, quick-feet, rattled	35	55	35	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png
+262	mightyena	10	370	147	dark	intimidate, quick-feet, moxie	70	90	70	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png
+263	zigzagoon	4	175	56	normal	pickup, gluttony, quick-feet	38	30	41	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png
+264	linoone	5	325	147	normal	pickup, gluttony, quick-feet	78	70	61	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png
+265	wurmple	3	36	56	bug	shield-dust, run-away	45	45	35	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png
+266	silcoon	6	100	72	bug	shed-skin	50	35	55	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png
+267	beautifly	10	284	178	bug, flying	swarm, rivalry	60	70	50	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png
+268	cascoon	7	115	72	bug	shed-skin	50	35	55	15	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png
+269	dustox	12	316	173	bug, poison	shield-dust, compound-eyes	60	50	70	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png
+270	lotad	5	26	44	water, grass	swift-swim, rain-dish, own-tempo	40	30	30	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png
+271	lombre	12	325	119	water, grass	swift-swim, rain-dish, own-tempo	60	50	50	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png
+272	ludicolo	15	550	240	water, grass	swift-swim, rain-dish, own-tempo	80	70	70	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png
+273	seedot	5	40	44	grass	chlorophyll, early-bird, pickpocket	40	40	50	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png
+274	nuzleaf	10	280	119	grass, dark	chlorophyll, early-bird, pickpocket	70	70	40	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png
+275	shiftry	13	596	240	grass, dark	chlorophyll, wind-rider, pickpocket	90	100	60	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png
+276	taillow	3	23	54	normal, flying	guts, scrappy	40	55	30	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png
+277	swellow	7	198	159	normal, flying	guts, scrappy	60	85	60	125	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png
+278	wingull	6	95	54	water, flying	keen-eye, hydration, rain-dish	40	30	30	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png
+279	pelipper	12	280	154	water, flying	keen-eye, drizzle, rain-dish	60	50	100	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png
+280	ralts	4	66	40	psychic, fairy	synchronize, trace, telepathy	28	25	25	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png
+281	kirlia	8	202	97	psychic, fairy	synchronize, trace, telepathy	38	35	35	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+282	gardevoir	16	484	259	psychic, fairy	synchronize, trace, telepathy	68	65	65	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png
+283	surskit	5	17	54	bug, water	swift-swim, rain-dish	40	30	32	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png
+284	masquerain	8	36	159	bug, flying	intimidate, unnerve	70	60	62	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png
+285	shroomish	4	45	59	grass	effect-spore, poison-heal, quick-feet	60	40	60	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png
+286	breloom	12	392	161	grass, fighting	effect-spore, poison-heal, technician	60	130	80	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png
+287	slakoth	8	240	56	normal	truant	60	60	60	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png
+288	vigoroth	14	465	154	normal	vital-spirit	80	80	80	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png
+289	slaking	20	1305	252	normal	truant	150	160	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png
+290	nincada	5	55	53	bug, ground	compound-eyes, run-away	31	45	90	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png
+291	ninjask	8	120	160	bug, flying	speed-boost, infiltrator	61	90	45	160	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png
+292	shedinja	8	12	83	bug, ghost	wonder-guard	1	90	45	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png
+293	whismur	6	163	48	normal	soundproof, rattled	64	51	23	28	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png
+294	loudred	10	405	126	normal	soundproof, scrappy	84	71	43	48	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png
+295	exploud	15	840	245	normal	soundproof, scrappy	104	91	63	68	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png
+296	makuhita	10	864	47	fighting	thick-fat, guts, sheer-force	72	60	30	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png
+297	hariyama	23	2538	166	fighting	thick-fat, guts, sheer-force	144	120	60	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png
+298	azurill	2	20	38	normal, fairy	thick-fat, huge-power, sap-sipper	50	20	40	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png
+299	nosepass	10	970	75	rock	sturdy, magnet-pull, sand-force	30	45	135	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png
+300	skitty	6	110	52	normal	cute-charm, normalize, wonder-skin	50	45	45	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png
+301	delcatty	11	326	140	normal	cute-charm, normalize, wonder-skin	70	65	65	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png
+302	sableye	5	110	133	dark, ghost	keen-eye, stall, prankster	50	75	75	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png
+303	mawile	6	115	133	steel, fairy	hyper-cutter, intimidate, sheer-force	50	85	85	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png
+304	aron	4	600	66	steel, rock	sturdy, rock-head, heavy-metal	50	70	100	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png
+305	lairon	9	1200	151	steel, rock	sturdy, rock-head, heavy-metal	60	90	140	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png
+306	aggron	21	3600	265	steel, rock	sturdy, rock-head, heavy-metal	70	110	180	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png
+307	meditite	6	112	56	fighting, psychic	pure-power, telepathy	30	40	55	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png
+308	medicham	13	315	144	fighting, psychic	pure-power, telepathy	60	60	75	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png
+309	electrike	6	152	59	electric	static, lightning-rod, minus	40	45	40	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png
+310	manectric	15	402	166	electric	static, lightning-rod, minus	70	75	60	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png
+311	plusle	4	42	142	electric	plus, lightning-rod	60	50	40	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png
+312	minun	4	42	142	electric	minus, volt-absorb	60	40	50	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png
+313	volbeat	7	177	151	bug	illuminate, swarm, prankster	65	73	75	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png
+314	illumise	6	177	151	bug	oblivious, tinted-lens, prankster	65	47	75	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png
+315	roselia	3	20	140	grass, poison	natural-cure, poison-point, leaf-guard	50	60	45	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png
+316	gulpin	4	103	60	poison	liquid-ooze, sticky-hold, gluttony	70	43	53	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png
+317	swalot	17	800	163	poison	liquid-ooze, sticky-hold, gluttony	100	73	83	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png
+318	carvanha	8	208	61	water, dark	rough-skin, speed-boost	45	90	20	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png
+319	sharpedo	18	888	161	water, dark	rough-skin, speed-boost	70	120	40	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png
+320	wailmer	20	1300	80	water	water-veil, oblivious, pressure	130	70	35	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png
+321	wailord	145	3980	175	water	water-veil, oblivious, pressure	170	90	45	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png
+322	numel	7	240	61	fire, ground	oblivious, simple, own-tempo	60	60	40	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png
+323	camerupt	19	2200	161	fire, ground	magma-armor, solid-rock, anger-point	70	100	70	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png
+324	torkoal	5	804	165	fire	white-smoke, drought, shell-armor	70	85	140	20	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png
+325	spoink	7	306	66	psychic	thick-fat, own-tempo, gluttony	60	25	35	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png
+326	grumpig	9	715	165	psychic	thick-fat, own-tempo, gluttony	80	45	65	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png
+327	spinda	11	50	126	normal	own-tempo, tangled-feet, contrary	60	60	60	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png
+328	trapinch	7	150	58	ground	hyper-cutter, arena-trap, sheer-force	45	100	45	10	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png
+329	vibrava	11	153	119	ground, dragon	levitate	50	70	50	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png
+330	flygon	20	820	260	ground, dragon	levitate	80	100	80	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png
+331	cacnea	4	513	67	grass	sand-veil, water-absorb	50	85	40	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png
+332	cacturne	13	774	166	grass, dark	sand-veil, water-absorb	70	115	60	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png
+333	swablu	4	12	62	normal, flying	natural-cure, cloud-nine	45	40	60	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png
+334	altaria	11	206	172	dragon, flying	natural-cure, cloud-nine	75	70	90	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png
+335	zangoose	13	403	160	normal	immunity, toxic-boost	73	115	60	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png
+336	seviper	27	525	160	poison	shed-skin, infiltrator	73	100	60	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png
+337	lunatone	10	1680	161	rock, psychic	levitate	90	55	65	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png
+338	solrock	12	1540	161	rock, psychic	levitate	90	95	85	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png
+339	barboach	4	19	58	water, ground	oblivious, anticipation, hydration	50	48	43	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png
+340	whiscash	9	236	164	water, ground	oblivious, anticipation, hydration	110	78	73	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png
+341	corphish	6	115	62	water	hyper-cutter, shell-armor, adaptability	43	80	65	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png
+342	crawdaunt	11	328	164	water, dark	hyper-cutter, shell-armor, adaptability	63	120	85	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png
+343	baltoy	5	215	60	ground, psychic	levitate	40	40	55	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png
+344	claydol	15	1080	175	ground, psychic	levitate	60	70	105	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png
+345	lileep	10	238	71	rock, grass	suction-cups, storm-drain	66	41	77	23	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png
+346	cradily	15	604	173	rock, grass	suction-cups, storm-drain	86	81	97	43	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png
+347	anorith	7	125	71	rock, bug	battle-armor, swift-swim	45	95	50	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png
+348	armaldo	15	682	173	rock, bug	battle-armor, swift-swim	75	125	100	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png
+349	feebas	6	74	40	water	swift-swim, oblivious, adaptability	20	15	20	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png
+350	milotic	62	1620	189	water	marvel-scale, competitive, cute-charm	95	60	79	81	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png
+351	castform	3	8	147	normal	forecast	70	70	70	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png
+352	kecleon	10	220	154	normal	color-change, protean	60	90	70	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png
+353	shuppet	6	23	59	ghost	insomnia, frisk, cursed-body	44	75	35	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png
+354	banette	11	125	159	ghost	insomnia, frisk, cursed-body	64	115	65	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png
+355	duskull	8	150	59	ghost	levitate, frisk	20	40	90	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png
+356	dusclops	16	306	159	ghost	pressure, frisk	40	70	130	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png
+357	tropius	20	1000	161	grass, flying	chlorophyll, solar-power, harvest	99	68	83	51	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png
+358	chimecho	6	10	159	psychic	levitate	75	50	80	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png
+359	absol	12	470	163	dark	pressure, super-luck, justified	65	130	60	75	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png
+360	wynaut	6	140	52	psychic	shadow-tag, telepathy	95	23	48	23	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png
+361	snorunt	7	168	60	ice	inner-focus, ice-body, moody	50	50	50	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png
+362	glalie	15	2565	168	ice	inner-focus, ice-body, moody	80	80	80	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png
+363	spheal	8	395	58	ice, water	thick-fat, ice-body, oblivious	70	40	50	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png
+364	sealeo	11	876	144	ice, water	thick-fat, ice-body, oblivious	90	60	70	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png
+365	walrein	14	1506	265	ice, water	thick-fat, ice-body, oblivious	110	80	90	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png
+366	clamperl	4	525	69	water	shell-armor, rattled	35	64	85	32	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png
+367	huntail	17	270	170	water	swift-swim, water-veil	55	104	105	52	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png
+368	gorebyss	18	226	170	water	swift-swim, hydration	55	84	105	52	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png
+369	relicanth	10	234	170	water, rock	swift-swim, rock-head, sturdy	100	90	130	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png
+370	luvdisc	6	87	116	water	swift-swim, hydration	43	30	55	97	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png
+371	bagon	6	421	60	dragon	rock-head, sheer-force	45	75	60	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png
+372	shelgon	11	1105	147	dragon	rock-head, overcoat	65	95	100	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png
+373	salamence	15	1026	300	dragon, flying	intimidate, moxie	95	135	80	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png
+374	beldum	6	952	60	steel, psychic	clear-body, light-metal	40	55	80	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png
+375	metang	12	2025	147	steel, psychic	clear-body, light-metal	60	75	100	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png
+376	metagross	16	5500	300	steel, psychic	clear-body, light-metal	80	135	130	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png
+377	regirock	17	2300	290	rock	clear-body, sturdy	80	100	200	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png
+378	regice	18	1750	290	ice	clear-body, ice-body	80	50	100	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png
+379	registeel	19	2050	290	steel	clear-body, light-metal	80	75	150	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png
+380	latias	14	400	300	dragon, psychic	levitate	80	80	90	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png
+381	latios	20	600	300	dragon, psychic	levitate	80	90	80	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png
+382	kyogre	45	3520	335	water	drizzle	100	100	90	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png
+383	groudon	35	9500	335	ground	drought	100	150	140	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png
+384	rayquaza	70	2065	340	dragon, flying	air-lock	105	150	90	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png
+385	jirachi	3	11	300	steel, psychic	serene-grace	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png
+386	deoxys-normal	17	608	270	psychic	pressure	50	150	50	150	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png
+387	turtwig	4	102	64	grass	overgrow, shell-armor	55	68	64	31	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png
+388	grotle	11	970	142	grass	overgrow, shell-armor	75	89	85	36	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png
+389	torterra	22	3100	236	grass, ground	overgrow, shell-armor	95	109	105	56	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png
+390	chimchar	5	62	62	fire	blaze, iron-fist	44	58	44	61	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png
+391	monferno	9	220	142	fire, fighting	blaze, iron-fist	64	78	52	81	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png
+392	infernape	12	550	240	fire, fighting	blaze, iron-fist	76	104	71	108	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png
+393	piplup	4	52	63	water	torrent, competitive	53	51	53	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png
+394	prinplup	8	230	142	water	torrent, competitive	64	66	68	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png
+395	empoleon	17	845	239	water, steel	torrent, competitive	84	86	88	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png
+396	starly	3	20	49	normal, flying	keen-eye, reckless	40	55	30	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png
+397	staravia	6	155	119	normal, flying	intimidate, reckless	55	75	50	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png
+398	staraptor	12	249	218	normal, flying	intimidate, reckless	85	120	70	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png
+399	bidoof	5	200	50	normal	simple, unaware, moody	59	45	40	31	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png
+400	bibarel	10	315	144	normal, water	simple, unaware, moody	79	85	60	71	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png
+401	kricketot	3	22	39	bug	shed-skin, run-away	37	25	41	25	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png
+402	kricketune	10	255	134	bug	swarm, technician	77	85	51	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png
+403	shinx	5	95	53	electric	rivalry, intimidate, guts	45	65	34	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png
+404	luxio	9	305	127	electric	rivalry, intimidate, guts	60	85	49	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png
+405	luxray	14	420	262	electric	rivalry, intimidate, guts	80	120	79	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png
+406	budew	2	12	56	grass, poison	natural-cure, poison-point, leaf-guard	40	30	35	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png
+407	roserade	9	145	258	grass, poison	natural-cure, poison-point, technician	60	70	65	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png
+408	cranidos	9	315	70	rock	mold-breaker, sheer-force	67	125	40	58	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png
+409	rampardos	16	1025	173	rock	mold-breaker, sheer-force	97	165	60	58	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png
+410	shieldon	5	570	70	rock, steel	sturdy, soundproof	30	42	118	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png
+411	bastiodon	13	1495	173	rock, steel	sturdy, soundproof	60	52	168	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png
+412	burmy	2	34	45	bug	shed-skin, overcoat	40	29	45	36	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png
+413	wormadam-plant	5	65	148	bug, grass	anticipation, overcoat	60	59	85	36	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png
+414	mothim	9	233	148	bug, flying	swarm, tinted-lens	70	94	50	66	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png
+415	combee	3	55	49	bug, flying	honey-gather, hustle	30	30	42	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png
+416	vespiquen	12	385	166	bug, flying	pressure, unnerve	70	80	102	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png
+417	pachirisu	4	39	142	electric	run-away, pickup, volt-absorb	60	45	70	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png
+418	buizel	7	295	66	water	swift-swim, water-veil	55	65	35	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png
+419	floatzel	11	335	173	water	swift-swim, water-veil	85	105	55	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png
+420	cherubi	4	33	55	grass	chlorophyll	45	35	45	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png
+421	cherrim	5	93	158	grass	flower-gift	70	60	70	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png
+422	shellos	3	63	65	water	sticky-hold, storm-drain, sand-force	76	48	48	34	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png
+423	gastrodon	9	299	166	water, ground	sticky-hold, storm-drain, sand-force	111	83	68	39	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png
+424	ambipom	12	203	169	normal	technician, pickup, skill-link	75	100	66	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png
+425	drifloon	4	12	70	ghost, flying	aftermath, unburden, flare-boost	90	50	34	70	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png
+426	drifblim	12	150	174	ghost, flying	aftermath, unburden, flare-boost	150	80	44	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png
+427	buneary	4	55	70	normal	run-away, klutz, limber	55	66	44	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png
+428	lopunny	12	333	168	normal	cute-charm, klutz, limber	65	76	84	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png
+429	mismagius	9	44	173	ghost	levitate	60	60	60	105	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png
+430	honchkrow	9	273	177	dark, flying	insomnia, super-luck, moxie	100	125	52	71	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png
+431	glameow	5	39	62	normal	limber, own-tempo, keen-eye	49	55	42	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png
+432	purugly	10	438	158	normal	thick-fat, own-tempo, defiant	71	82	64	112	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png
+433	chingling	2	6	57	psychic	levitate	45	30	50	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png
+434	stunky	4	192	66	poison, dark	stench, aftermath, keen-eye	63	63	47	74	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png
+435	skuntank	10	380	168	poison, dark	stench, aftermath, keen-eye	103	93	67	84	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png
+436	bronzor	5	605	60	steel, psychic	levitate, heatproof, heavy-metal	57	24	86	23	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png
+437	bronzong	13	1870	175	steel, psychic	levitate, heatproof, heavy-metal	67	89	116	33	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png
+438	bonsly	5	150	58	rock	sturdy, rock-head, rattled	50	80	95	10	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png
+439	mime-jr	6	130	62	psychic, fairy	soundproof, filter, technician	20	25	45	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png
+440	happiny	6	244	110	normal	natural-cure, serene-grace, friend-guard	100	5	5	30	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png
+441	chatot	5	19	144	normal, flying	keen-eye, tangled-feet, big-pecks	76	65	45	91	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png
+442	spiritomb	10	1080	170	ghost, dark	pressure, infiltrator	50	92	108	35	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png
+443	gible	7	205	60	dragon, ground	sand-veil, rough-skin	58	70	45	42	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png
+444	gabite	14	560	144	dragon, ground	sand-veil, rough-skin	68	90	65	82	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png
+445	garchomp	19	950	300	dragon, ground	sand-veil, rough-skin	108	130	95	102	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png
+446	munchlax	6	1050	78	normal	pickup, thick-fat, gluttony	135	85	40	5	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png
+447	riolu	7	202	57	fighting	steadfast, inner-focus, prankster	40	70	40	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png
+448	lucario	12	540	184	fighting, steel	steadfast, inner-focus, justified	70	110	70	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png
+449	hippopotas	8	495	66	ground	sand-stream, sand-force	68	72	78	32	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png
+450	hippowdon	20	3000	184	ground	sand-stream, sand-force	108	112	118	47	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png
+451	skorupi	8	120	66	poison, bug	battle-armor, sniper, keen-eye	40	50	90	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png
+452	drapion	13	615	175	poison, dark	battle-armor, sniper, keen-eye	70	90	110	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png
+453	croagunk	7	230	60	poison, fighting	anticipation, dry-skin, poison-touch	48	61	40	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png
+454	toxicroak	13	444	172	poison, fighting	anticipation, dry-skin, poison-touch	83	106	65	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png
+455	carnivine	14	270	159	grass	levitate	74	100	72	46	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png
+456	finneon	4	70	66	water	swift-swim, storm-drain, water-veil	49	49	56	66	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png
+457	lumineon	12	240	161	water	swift-swim, storm-drain, water-veil	69	69	76	91	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png
+458	mantyke	10	650	69	water, flying	swift-swim, water-absorb, water-veil	45	20	50	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png
+459	snover	10	505	67	grass, ice	snow-warning, soundproof	60	62	50	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png
+460	abomasnow	22	1355	173	grass, ice	snow-warning, soundproof	90	92	75	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png
+461	weavile	11	340	179	dark, ice	pressure, pickpocket	70	120	65	125	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png
+462	magnezone	12	1800	268	electric, steel	magnet-pull, sturdy, analytic	70	70	115	60	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png
+463	lickilicky	17	1400	180	normal	own-tempo, oblivious, cloud-nine	110	85	95	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png
+464	rhyperior	24	2828	268	ground, rock	lightning-rod, solid-rock, reckless	115	140	130	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png
+465	tangrowth	20	1286	187	grass	chlorophyll, leaf-guard, regenerator	100	100	125	50	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png
+466	electivire	18	1386	270	electric	motor-drive, vital-spirit	75	123	67	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png
+467	magmortar	16	680	270	fire	flame-body, vital-spirit	75	95	67	83	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png
+468	togekiss	15	380	273	fairy, flying	hustle, serene-grace, super-luck	85	50	95	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png
+469	yanmega	19	515	180	bug, flying	speed-boost, tinted-lens, frisk	86	76	86	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png
+470	leafeon	10	255	184	grass	leaf-guard, chlorophyll	65	110	130	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png
+471	glaceon	8	259	184	ice	snow-cloak, ice-body	65	60	110	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png
+472	gliscor	20	425	179	ground, flying	hyper-cutter, sand-veil, poison-heal	75	95	125	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png
+473	mamoswine	25	2910	265	ice, ground	oblivious, snow-cloak, thick-fat	110	130	80	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png
+474	porygon-z	9	340	268	normal	adaptability, download, analytic	85	80	70	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png
+475	gallade	16	520	259	psychic, fighting	steadfast, sharpness, justified	68	125	65	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png
+476	probopass	14	3400	184	rock, steel	sturdy, magnet-pull, sand-force	60	55	145	40	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png
+477	dusknoir	22	1066	263	ghost	pressure, frisk	45	100	135	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png
+478	froslass	13	266	168	ice, ghost	snow-cloak, cursed-body	70	80	70	110	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png
+479	rotom	3	3	154	electric, ghost	levitate	50	50	77	91	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png
+480	uxie	3	3	290	psychic	levitate	75	75	130	95	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png
+481	mesprit	3	3	290	psychic	levitate	80	105	105	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png
+482	azelf	3	3	290	psychic	levitate	75	125	70	115	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png
+483	dialga	54	6830	340	steel, dragon	pressure, telepathy	100	120	120	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png
+484	palkia	42	3360	340	water, dragon	pressure, telepathy	90	120	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png
+485	heatran	17	4300	300	fire, steel	flash-fire, flame-body	91	90	106	77	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png
+486	regigigas	37	4200	335	normal	slow-start	110	160	110	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png
+487	giratina-altered	45	7500	340	ghost, dragon	pressure, telepathy	150	100	120	90	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png
+488	cresselia	15	856	300	psychic	levitate	120	70	110	85	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png
+489	phione	4	31	216	water	hydration	80	80	80	80	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png
+490	manaphy	3	14	270	water	hydration	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png
+491	darkrai	15	505	270	dark	bad-dreams	70	90	90	125	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png
+492	shaymin-land	2	21	270	grass	natural-cure	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png
+493	arceus	32	3200	324	normal	multitype	120	120	120	120	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png
+494	victini	4	40	300	psychic, fire	victory-star	100	100	100	100	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png
+495	snivy	6	81	62	grass	overgrow, contrary	45	45	55	63	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png
+496	servine	8	160	145	grass	overgrow, contrary	60	60	75	83	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png
+497	serperior	33	630	238	grass	overgrow, contrary	75	75	95	113	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png
+498	tepig	5	99	62	fire	blaze, thick-fat	65	63	45	45	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png
+499	pignite	10	555	146	fire, fighting	blaze, thick-fat	90	93	55	55	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png
+500	emboar	16	1500	238	fire, fighting	blaze, reckless	110	123	65	65	https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png
