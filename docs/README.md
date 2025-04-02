@@ -35,7 +35,7 @@ Também permite consultar informações detalhadas de cada Pokémon individualme
 ### Função de Densidade de Probabilidade (PDF) da Normal
 
 <p align="center">
-  <img src="imagens/f(x).png" width="300">
+  <img src="images/f(x).png" width="300">
   <br>
   <em>Equação da função densidade de probabilidade da distribuição normal.</em>
 </p>
