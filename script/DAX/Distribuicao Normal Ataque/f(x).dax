@@ -1,0 +1,2 @@
+f(x) = 
+EXP((SELECTEDVALUE('Distribuicao Normal Ataque'[X])-[Media Ataque (µ)])^2/(2*[Desvio Padrao Ataque (σ)]^2)*-1)/(SQRT(2*PI())*[Desvio Padrao Ataque (σ)])

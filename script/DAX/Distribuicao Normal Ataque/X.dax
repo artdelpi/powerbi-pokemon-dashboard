@@ -1,0 +1,5 @@
+Distribuicao Normal Ataque = 
+VAR minvalue=FLOOR([X-3σ Ataque],1)
+VAR maxvalue=CEILING([X+3σ Ataque],1)
+return 
+SELECTCOLUMNS(CALENDAR(minvalue, maxvalue),"X",INT([Date]))
