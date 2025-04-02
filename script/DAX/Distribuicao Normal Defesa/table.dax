@@ -1,0 +1,5 @@
+Distribuicao Normal Defesa = 
+VAR minvalue=FLOOR([X-3σ Defesa],1)
+VAR maxvalue=CEILING([X+3σ Defesa],1)
+return 
+SELECTCOLUMNS(CALENDAR(minvalue, maxvalue),"X",INT([Date]))

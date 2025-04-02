@@ -1,0 +1,2 @@
+f(x) Defesa = 
+EXP((SELECTEDVALUE('Distribuicao Normal Defesa'[X])-[Media Defesa (µ)])^2/(2*[Desvio Padrao Defesa (σ)]^2)*-1)/(SQRT(2*PI())*[Desvio Padrao Defesa (σ)])
