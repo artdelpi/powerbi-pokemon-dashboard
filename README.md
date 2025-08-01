@@ -1,4 +1,4 @@
-# Pokémon Dashboard – Análise Estatística e Consulta Individual
+# Pokémon Dashboard: Análise Estatística e Consulta Individual
 
 Este projeto disponibiliza um **dashboard interativo em Power BI** para análise dos **atributos dos Pokémon**, obtidos diretamente da **PokéAPI** por meio de um script Python.  
 O painel oferece **visão comparativa por tipos** e **consulta detalhada** de qualquer Pokémon.
@@ -18,19 +18,19 @@ O painel permite:
 <p align="center">
   <img src="docs/images/screenshots/screenshot1.png" alt="Tela de Análise Estatística por Tipo" width="600px">
   <br>
-  <em>Figura 1 – Distribuição normal de Defesa e Ataque com Top 1, 2 e 3 listados.</em>
+  <em>Figura 1 - Distribuição normal de Defesa e Ataque com Top 1, 2 e 3 listados.</em>
 </p>
 
 <p align="center">
   <img src="docs/images/screenshots/screenshot2.png" alt="Tela de Análise Estatística Entre Todos os Tipos" width="600px">
   <br>
-  <em>Figura 2 – Comparativo entre todos os tipos de pokémon.</em>
+  <em>Figura 2 - Comparativo entre todos os tipos de pokémon.</em>
 </p>
 
 <p align="center">
   <img src="docs/images/screenshots/screenshot3.png" alt="Tela de Consulta Individual de Pokémon" width="600px">
   <br>
-  <em>Figura 3 – Consulta individual com atributos e indicadores de HP, Ataque, Defesa e Velocidade.</em>
+  <em>Figura 3 - Consulta individual com atributos e indicadores de HP, Ataque, Defesa e Velocidade.</em>
 </p>
 
 ---
